@@ -1,1 +1,1 @@
-web: python buy_elephant.py
+web: python flask_app.py
